@@ -1,5 +1,8 @@
 # 👨‍💻 Angel Gabriel Coronado Sánchez  
 
+### 🌎 Donde estudio
+Actualmente estudio en la Universidad Politécnica de Victoria, en la Ingeniería de Tecnologías de la Información e Innovación Digital
+
 ### 🛠️ Tecnologías  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
