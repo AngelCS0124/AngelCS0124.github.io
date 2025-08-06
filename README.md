@@ -13,7 +13,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
 
 ## 📌 Sobre mí  
-Estudiante apasionado por el desarrollo de software con experiencia en múltiples tecnologías. Me encanta aprender cosas nuevas y enfrentar desafíos técnicos.
+Estudiante apasionado por el desarrollo de software. Me encanta aprender cosas nuevas y enfrentar desafíos técnicos por más dificiles que parezcan.
 
 ## 🎯 Habilidades principales  
 - Desarrollo web (Frontend y Backend)  
@@ -24,12 +24,7 @@ Estudiante apasionado por el desarrollo de software con experiencia en múltiple
 
 ## 🌱 Actualmente aprendiendo  
 - Desarrollo de videojuegos con Godot Engine  
-- Patrones de diseño de software  
-- Optimización de código  
-
-## 📂 Proyectos recientes  
-`Proyecto 1` - Descripción breve del proyecto (tecnologías usadas)  
-`Proyecto 2` - Descripción breve del proyecto (tecnologías usadas)  
+- Desarrollo de aplicaciones de escritorio con JavaFX
 
 ## 📫 Contacto  
 ✉️ [correo@ejemplo.com](mailto:correo@ejemplo.com)  
