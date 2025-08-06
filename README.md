@@ -13,19 +13,11 @@
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
 
 ## 📌 Sobre mí  
-Estudiante apasionado por el desarrollo de software. Me encanta aprender cosas nuevas y enfrentar desafíos técnicos por más dificiles que parezcan.
-
-## 🎯 Habilidades principales  
-- Desarrollo web (Frontend y Backend)  
-- Programación en Java y C  
-- Diseño UI/UX básico  
-- Bases de datos relacionales  
-- Control de versiones con Git  
+Estudiante apasionado por el desarrollo de software. Me encanta aprender cosas nuevas y enfrentar desafíos técnicos por más dificiles que parezcan. 
 
 ## 🌱 Actualmente aprendiendo  
 - Desarrollo de videojuegos con Godot Engine  
 - Desarrollo de aplicaciones de escritorio con JavaFX
 
 ## 📫 Contacto  
-✉️ [correo@ejemplo.com](mailto:correo@ejemplo.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/tuperfil)  
+✉️ [2430124@upv.edu.mx](mailto:2430124@upv.edu.mx)  
